@@ -93,7 +93,7 @@ def calculate_hourly_activity(activity_data_frame):
     plt.ylabel('Total tracks listened')
 
     plt.show()
-    plt.close()
+#     plt.close()
 
 
     # first we need to convert the column into a date time
